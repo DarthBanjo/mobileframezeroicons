@@ -1,5 +1,5 @@
 # Mobile Frame Zero Icons
-- Original icons are designed by Soren.
+- Original community icons are designed by Soren.
 - 2023 "Frame Pilots of the Aturi Valley" icons are based on the following:
 
 
