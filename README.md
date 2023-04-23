@@ -1,7 +1,6 @@
 # Mobile Frame Zero Community Icons
-
-Original icons are designed by Soren.
-2023 "Frame Pilots of the Aturi Valley" icons are based on the following:
+- Original icons are designed by Soren.
+- 2023 "Frame Pilots of the Aturi Valley" icons are based on the following:
 
 ### Noun Project Pro Unlimited (Royalty-Free No attribution)
 - Asterisk, Arrow right
