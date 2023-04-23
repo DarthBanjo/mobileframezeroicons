@@ -1,4 +1,4 @@
-# Mobile Frame Zero Community Ucons
+# Mobile Frame Zero Community Icons
 
 Original Icons are based on Soren's design.
 Updated icons are based on the following:
