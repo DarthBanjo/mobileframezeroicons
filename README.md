@@ -11,4 +11,4 @@
 - Eye-target by **Delapouite**
 - Artillery-shell icon by **Quoting**
 
-You're welcome to print these up and use them in your games among your friends: live or on a virtual tabletop.
+You're welcome to print these up / use them in your home games among your friends: live or on a virtual tabletop.
